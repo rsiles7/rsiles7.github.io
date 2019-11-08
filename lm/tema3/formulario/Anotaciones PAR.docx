@@ -1,0 +1,21 @@
+<!DOCTYPE html>
+<html lang=“es”>
+	<head>
+		<title>PLANTILLA HTML</title>
+		<meta charset=“utf-8”/>
+		<meta name=“description” content=“Documento HTML5”/>
+		<meta name=“keywords” content=“HTML, XHTML, CSS”/>
+	</head>
+	<body>
+        <section>
+        <form name="formulario" method="post" action="mailto:a19sirora@iesgrancapitan.org" enctype="text/plaint">
+            <p><label>Nombre;<input type="text" name="nombre" maxlength="15"></label></p>
+            <p><label>Edad;<input type="text" name="edad" maxlength="15"></label></p>
+            <p><label>Correo;<input type="text" name="correo" maxlength="15"></label></p>
+            <p><label>Teléfono;<input type="text" name="telefono" maxlength="15"></label></p>
+            <p><label>Sitio Web;<input type="text" name="sitioweb" maxlength="15"></label></p>
+            <p><imput type="sumit" value="enviar"></imput></p>
+            </form>
+        </section>
+    </body>
+</html>
