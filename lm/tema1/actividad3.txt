@@ -1,0 +1,23 @@
+Cuestionario
+//Realizado por Rafael Siles Rodríguez
+::¿Qué es un lenguaje de marcas::
+{~Lenguaje utilizado por los técnicos de aeropuerto en la pista de aterrizaje.
+~Lenguaje de las personas sordo-mudas
+=Forma de codificar un documento que, junto con el texto, incorpora marcas que contienen infomación adicional acerca de su estructura}
+
+::¿Cuántas partes forman la etiqueta de inicio?::
+{=3
+~1
+~2}
+
+::En lenguaje XHTML se pueden usar tanto mayúsculas como minúsculas::{F}
+
+::¿Cual de los siguientes personajes está considerado el padre de la web?::
+{~ Tim Burton
+~ Lee Harvey Oswal
+= Tim Berners Lee}
+
+::Empresa certificadora de las páginas web::
+{=W3C
+~WhatsApp
+~Winamp}
