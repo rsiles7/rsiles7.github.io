@@ -1,0 +1,11 @@
+html {
+    background: white;
+}
+body {
+    text-align: justify;
+    margin: 20px;
+}
+section {
+    margin: 100px 300px 0px 300px;
+    border: 20px solid green;
+}
