@@ -15,6 +15,10 @@ body {
     max-width: 800px;
     padding: 2em 2em 4em;
 }
+body; nav {
+    background: #474747;
+    color: #dcdcdc;
+}
 
 p {
     text-align: justify;
