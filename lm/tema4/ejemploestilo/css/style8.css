@@ -1,0 +1,34 @@
+html{
+    background: white;
+    padding: 3%;
+}
+body {
+    background: #1b5e20;
+    padding: 1%;
+}
+section {
+    background-color: #fff8e1;
+    border: 10px solid #fff176;
+    color: #f57f17;
+    padding: 0% 10% 100% 10% ;
+}
+p {
+    font-family: sans-serif;
+    color: #f57f17 ;
+}
+section a {
+    font-family: sans-serif;
+    color: #f57f17 ;
+    border: 6px solid #f57f17;
+    border-top-left-radius: 12px;
+    border-bottom-right-radius: 12px;
+    padding: 4px
+    
+    
+}
+section a:hover{
+    font-size: 200%;
+    border: 10px solid #f57f17;
+    border-top-right-radius: 30px;
+    border-bottom-left-radius: 30px;
+}
