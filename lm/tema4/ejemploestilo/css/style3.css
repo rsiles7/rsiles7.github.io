@@ -1,6 +1,0 @@
-p:nth-child(odd){
-    background: grey;
-}
-p:nth-child(even){
-    background: red;
-}
