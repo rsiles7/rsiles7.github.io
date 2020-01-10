@@ -1,0 +1,24 @@
+header, footer {
+    background: grey;
+    height: 15vh;
+}
+#main {
+    display: flex;
+    min-height: 70vh;
+}
+#main > article {
+    flex: 1;
+}
+#main > nav, #main > aside {
+    flex: 0 0 20vw;
+    background: beige;
+}
+#main > nav {
+    order: -1;
+}
+body {
+    margin: 0;
+}
+header, footer, article, nav, aside {
+    padding: 1em;
+}
