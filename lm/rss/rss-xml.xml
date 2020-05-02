@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
+﻿<?xml version="1.0" encoding="UTF-8"?>
 <rss>
     <channel>
         <title>Rafael Siles. Ejercicios XML</title>
@@ -18,6 +18,11 @@
             <title>Fondos</title>
             <link>https://rsiles7.github.io/lm/tema4/bloques/bloque7.html</link>
         <description>Bloque 7 Tema 4</description>
+        </item>
+        <item>
+                    <title>Actividades xml</title>
+            <link>https://rsiles7.github.io/lm/tema7/a1</link>
+        <description>Actividades tema 7 a1</description>
         </item>
     </channel>
 </rss>
