@@ -1,0 +1,6 @@
+<!ELEMENT partdidos (equipos)>
+<!ELEMENT equipos (local, visitante, gollocal, golvisit)>
+<!ELEMENT local (#PSDATA)>
+<!ELEMENT visitante (#PSDATA)>
+<!ELEMENT gollocal (#PSDATA)>
+<!ELEMENT golvisit (#PSDATA)>

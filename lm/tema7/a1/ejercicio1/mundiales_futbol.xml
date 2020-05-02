@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE mundial [
+<!ELEMENT mundial (pais, fecha)>
+<!ELEMENT pais EMPTY>
+<!ATTLIST pais nombre CDATA #REQUIRED>
+<!ELEMENT fecha EMPTY>
+<!ATTLIST fecha año CDATA #REQUIRED>
+]>
+<mundial>
+<pais nombre="España" />
+<fecha año="1982" />
+</mundial>

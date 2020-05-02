@@ -1,0 +1,6 @@
+<!ELEMENT partdidos (partido)>
+<!ELEMENT partido EMPTY>
+<!ELEMENT partido gollocal CDATA #REQUIRED>
+<!ELEMENT partido golvisitante CDATA #REQUIRED>
+<!ELEMENT partido local CDATA #REQUIRED>
+<!ELEMENT partido visitante CDATA #REQUIRED>

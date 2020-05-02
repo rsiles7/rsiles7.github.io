@@ -1,0 +1,18 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE pedido [
+<!ELEMENT pedido (nombre, contenido, direccion, fecha)>
+<!ELEMENT nombre (#PCDATA)>
+<!ELEMENT contenido (#PCDATA)>
+<!ELEMENT direccion EMPTY>
+<!ATTLIST direccion calle CDATA #REQUIRED>
+<!ATTLIST direccion numero CDATA #REQUIRED>
+<!ATTLIST direccion piso CDATA #IMPLIED>
+<!ATTLIST direccion letra CDATA #IMPLIED>
+<!ELEMENT fecha (#PCDATA)>
+]>
+<pedido>
+  <nombre>Juan Delgado Martínez</nombre>
+  <contenido>Bicicleta A2023</contenido>
+  <direccion calle="Barco" numero="4" piso="tercero" letra="A"/>
+  <fecha>19-5-2000</fecha>
+</pedido>

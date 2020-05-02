@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE agenda SYSTEM "partidos1.dtd">
+<partidos>
+    <equipos>
+        <local>Notthingam Presa</local>
+        <visitante>Inter de Mitente</visitante>
+        <gollocal>0</gollocal>
+        <golvisit>1</golvisit>
+    </equipos>
+    <equipos>
+        <local>Vodka Junior</local>
+        <visitante>Sparta da Risa</visitante>
+        <gollocal>3</gollocal>
+        <golvisit>3</golvisit>
+    </equipos>
+    <equipos>
+        <local>Water de Múnich</local>
+        <visitante>Esteaua es del grifo</visitante>
+        <gollocal>4</gollocal>
+        <golvisit>2</golvisit>
+    </equipos>
+</partidos>

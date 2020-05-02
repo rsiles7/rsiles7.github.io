@@ -1,0 +1,50 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE arboles [
+<!ELEMENT arboles (arbol+)>
+<!ELEMENT arbol (nombrecientifico, nombrecomun, vegetacion, altura, forma, color, resistencia)>
+<!ELEMENT nombrecientifico (#PCDATA)>
+<!ELEMENT nombrecomun (#PCDATA)>
+<!ELEMENT vegetacion (#PCDATA)>
+<!ELEMENT altura (#PCDATA)>
+<!ELEMENT forma (#PCDATA)>
+<!ELEMENT color (#PCDATA)>
+<!ELEMENT resistencia (#PCDATA)>
+]>
+<arboles>
+  <arbol>
+    <nombrecientifico>Acer monspessulanum</nombrecientifico>  
+    <nombrecomun>Arce de Montpellier, Arce menos</nombrecomun>
+    <vegetacion>Caducifolio</vegetacion>
+    <altura>De 6 a 10 metros</altura>
+    <forma>Copa esférica. Tronco principal recto con bifurcaciones. Remaje colgante</forma>
+    <color>Haz verde brillate, envés verde blanquecino</color>
+    <resistencia>Haladas fuertes (hasta -15ºC)</resistencia>
+  </arbol>
+  <arbol>
+    <nombrecientifico>Olea europea</nombrecientifico>  
+    <nombrecomun>Olivo</nombrecomun>
+    <vegetacion>Perenne</vegetacion>
+    <altura>De 8 a 15 metros</altura>
+    <forma>Copa irregular. Tronco principal irregular con bifurcaciones. Ramaje tortuoso</forma>
+    <color>Haz verde oscuro, envés verde plateado</color>
+    <resistencia>Heladas medias (hasta -10ºC)</resistencia>
+  </arbol>
+  <arbol>
+    <nombrecientifico>Platanus orientalis</nombrecientifico>  
+    <nombrecomun>Platano</nombrecomun>
+    <vegetacion>Caducifolio</vegetacion>
+    <altura>De 20 a 25 metros</altura>
+    <forma>Copa oboidal. Tronco recto ramaje expandido</forma>
+    <color>Ocre</color>
+    <resistencia>Heladas fuertes (hasta -20ºC)</resistencia>
+  </arbol>
+  <arbol>
+    <nombrecientifico>Quercus ilex</nombrecientifico>  
+    <nombrecomun>Encina</nombrecomun>
+    <vegetacion>Perenne</vegetacion>
+    <altura>En torno a 25 metros</altura>
+    <forma>Copa esférica o elíptica irregular. Tronco principal recto. Remaje tortuso</forma>
+    <color>Plateado en hojas jóvenes. En hojas antiguas, haz verde oscuro, envés plateado</color>
+    <resistencia>Heladas fuertes (hasta -15ºC)</resistencia>
+  </arbol>
+</arboles>

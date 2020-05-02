@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE agenda SYSTEM "partidos3.dtd">
+<partidos>
+    <partido local="Nottingham presa" visitante="Inter de Mitente" gollocal="0" golvisitante="1"></partido>
+    <partido local="Vodka Junior" visitante="Sparta da Risa" gollocal="3" golvisitante="3"></partido>
+    <partido local="Water de Múnich" visitante="Esteaua es del grifo" gollocal="4" golvisitante="3"></partido>
+</partidos>

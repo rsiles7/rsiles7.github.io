@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE ifngeografia [
+<!ELEMENT nacion (pais, continente, capital)>
+<!ELEMENT pais (#PCDATA)>
+<!ELEMENT contineNte (#PCDATA)>
+<!ELEMENT capital EMPTY>
+<!ATTLIST capital nombre CDATA #REQUIRED>
+]>
+<nacion>
+<pais>España</pais>
+<continente>Europa</continente>
+<capital nombre="Madrid"/>
+</nacion>

@@ -1,0 +1,28 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE correo [
+<!ELEMENT correo (mensaje)>
+<!ELEMENT mensaje (remite, destinatario, asunto, texto)>
+<!ELEMENT remite EMPTY>
+<!ATTLIST remite nombre CDATA #REQUIRED>
+<!ATTLIST remite email CDATA #REQUIRED>
+<!ELEMENT destinatario EMPTY>
+<!ATTLIST destinatario nombre CDATA #REQUIRED>
+<!ATTLIST destinatario email CDATA #REQUIRED>
+<!ELEMENT asunto (#PCDATA)>
+<!ELEMENT texto (parrafo1, parrafo2, parrafo3)>
+<!ELEMENT parrafo1 (#PCDATA)>
+<!ELEMENT parrafo2 (#PCDATA)>
+<!ELEMENT parrafo3 (#PCDATA)>
+]>
+<correo>
+<mensaje>
+  <remite nombre="Alfredo Reino" email="alf@ibium.com" />
+  <destinatario nombre="Bill Clinton" email="president@whitehouse.gov"/>
+  <asunto>Hola Bill</asunto>
+  <texto>
+    <parrafo1>¿Hola que tal?</parrafo1>
+    <parrafo2>Hace mucho tiempo que no escribes. A ver si llamas y quedamos pronto.</parrafo2>
+    <parrafo3>Un saludo.</parrafo3>
+  </texto>
+</mensaje>
+</correo>
