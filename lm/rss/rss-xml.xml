@@ -2,11 +2,11 @@
 <rss version="2.0">
     <channel>
         <title>Rafael Siles. Ejercicios XML</title>
-        <link>http://rsiles7.hithub.io</link>
+        <link>http://rsiles7.github.io</link>
         <description>Ejercicios asignatura Lenguaje de Marcas</description>
         <item>
             <title>Córdoba Patrimonio</title>
-            <link>hhttps://rsiles7.github.io/lm/cordobapatrimonio/index.html</link>
+            <link>https://rsiles7.github.io/lm/cordobapatrimonio/index.html</link>
         <description>Página dedicada a Córdoba</description>
         </item>
         <item>
@@ -21,9 +21,9 @@
         </item>
         <item>
           <title>Actividades tema 6</title>
-          <link>https://github.com/rsiles7/rsiles7.github.io/tree/master/lm/tema7/actividad1.xhtml</link>
-          <link>https://github.com/rsiles7/rsiles7.github.io/tree/master/lm/tema7/actividad3.xhtml</link>
-          <link>https://github.com/rsiles7/rsiles7.github.io/tree/master/lm/tema7/actividad4.xhtml</link>
+          <link>https://github.com/rsiles7/rsiles7.github.io/lm/tema7/actividad1.xhtml</link>
+          <link>https://github.com/rsiles7/rsiles7.github.io/lm/tema7/actividad3.xhtml</link>
+          <link>https://github.com/rsiles7/rsiles7.github.io/lm/tema7/actividad4.xhtml</link>
           <description>Actividades tema 6</description>
         </item>
         <item>
