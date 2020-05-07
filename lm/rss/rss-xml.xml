@@ -1,5 +1,5 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
-<rss>
+<rss version="2.0">
     <channel>
         <title>Rafael Siles. Ejercicios XML</title>
         <link>http://rsiles7.hithub.io</link>
@@ -18,6 +18,13 @@
             <title>Fondos</title>
             <link>https://rsiles7.github.io/lm/tema4/bloques/bloque7.html</link>
         <description>Bloque 7 Tema 4</description>
+        </item>
+        <item>
+          <title>Actividades tema 6</title>
+          <link>https://github.com/rsiles7/rsiles7.github.io/tree/master/lm/tema7/actividad1.xhtml</link>
+          <link>https://github.com/rsiles7/rsiles7.github.io/tree/master/lm/tema7/actividad3.xhtml</link>
+          <link>https://github.com/rsiles7/rsiles7.github.io/tree/master/lm/tema7/actividad4.xhtml</link>
+          <description>Actividades tema 6</description>
         </item>
         <item>
                     <title>Actividades xml</title>
