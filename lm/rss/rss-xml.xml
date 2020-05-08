@@ -20,16 +20,34 @@
         <description>Bloque 7 Tema 4</description>
         </item>
         <item>
-          <title>Actividades tema 6</title>
+          <title>Actividades tema 6 actividad 1</title>
           <link>https://github.com/rsiles7/rsiles7.github.io/lm/tema6/actividad1.xhtml</link>
+          <description>Actividades tema 6</description>
+        </item>
+        <item>
+          <title>Actividades tema 6 actividad 3</title>
           <link>https://github.com/rsiles7/rsiles7.github.io/lm/tema6/actividad3.xhtml</link>
+          <description>Actividades tema 6</description>
+        </item>
+        <item>
+          <title>Actividades tema 6 actividad 4</title>
           <link>https://github.com/rsiles7/rsiles7.github.io/lm/tema6/actividad4.xhtml</link>
           <description>Actividades tema 6</description>
         </item>
         <item>
-                    <title>Actividades xml</title>
+            <title>Actividades xml</title>
             <link>https://github.com/rsiles7/rsiles7.github.io/tree/master/lm/tema7/a1</link>
-        <description>Actividades tema 7 a1</description>
+            <description>Actividades tema 7 a1</description>
+        </item>
+        <item>
+            <title>Actividades xsd</title>
+            <link>https://github.com/rsiles7/rsiles7.github.io/tree/master/lm/tema7/a2</link>
+            <description>Actividades tema 7 a2</description>
+        </item>
+        <item>
+          <title>las recetasd de la abuela</title>
+          <link>https://yayaamiguitos.github.io</link>
+          <description>Pagina web de las recetas de la abuela</description>
         </item>
     </channel>
 </rss>
