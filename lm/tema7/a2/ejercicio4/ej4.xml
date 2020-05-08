@@ -1,0 +1,22 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<personas 
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xsi:noNamespaceSchemaLocation="ej4.xsd"
+>
+<persona fechanacimiento="1599-02-08">
+  <datos>
+    <nombre>Antonio</nombre>  
+    <apellidos>Rodríguez Sánchez</apellidos>
+    <dni>12346789A</dni>
+  </datos>
+  <comentario>Alto, ojos claros...</comentario>
+</persona>
+<persona fechanacimiento="1598-12-31">
+  <datos>
+    <nombre>Antonia</nombre>  
+    <apellidos>Sánchez Pérez</apellidos>
+    <dni>987654321Z</dni>
+  </datos>
+  <comentario>baja, ojos oscuros...</comentario>
+</persona>
+</personas>
