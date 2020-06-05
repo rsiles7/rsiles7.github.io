@@ -1,0 +1,22 @@
+body {
+    width: 500px;
+    align-items: center;
+}
+p:nth-of-type(1) {
+    margin-top: 60px;
+    text-align: justify;
+}
+p {
+    text-align: justify;
+}
+.posicion1 {
+    display: inline-block;
+    position: fixed;
+    bottom: 30px;
+    right: 30px;
+    background-color: yellow;
+    padding: 10px;
+    margin: 10px;
+    border: 2px solid rgba(255,84,104,.3);
+    border-radius: 5px;
+}

@@ -1,0 +1,15 @@
+body {
+    margin: 0;
+    padding: 0;
+    background: grey;
+}
+@media (max-width: 960px) {
+    body {
+        background: blue;
+    }
+}
+@media (max-width: 600px) {
+    body {
+        background: gold;
+    }
+}
