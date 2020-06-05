@@ -32,8 +32,9 @@ body nav a:hover {
     padding: 3% 0% 3% 0%;
 }
 body nav li {
-    display: inline;
-    padding: 1%;
+    display: inline-block;
+    padding: 3px;
+    font-size: 14px;
 }
 body nav li.open {
     text-decoration: underline;
@@ -46,5 +47,18 @@ p {
     text-align: justify;
 }
 footer {
-    padding-top: 0em;
+    display: block;
+    padding-top: 15em;
+    justify-content: center;
+    align-content: center;
+}
+
+@media (max-width: 1000px) {
+    body nav ul li{
+     display: block;
+     font-size: 16px;
+ }
+ body {
+     font-size: 30px;
+ }
 }
