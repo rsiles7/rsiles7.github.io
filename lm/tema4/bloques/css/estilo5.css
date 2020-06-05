@@ -35,6 +35,7 @@ body nav a:hover {
 body nav li {
     display: inline;
     padding: 1%;
+    font-size: 12px;
 }
 body nav li.open {
     text-decoration: underline;
